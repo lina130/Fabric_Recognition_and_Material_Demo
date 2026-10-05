@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Large captured data / generated artifacts (kept out of git)
+Fabric_Recognition/recognition_app/raw_mic/
+Fabric_Recognition/dataset/raw_mic/
+**/sensor_data/
+**/train_features/
+*.pth.focus_bak
+
+# PyInstaller / build output
+build/
+dist/
+*.spec.bak
+
+# IDE / OS
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+desktop.ini

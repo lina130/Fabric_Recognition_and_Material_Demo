@@ -1,0 +1,2 @@
+cd "E:\YX syncthing\AgileReach\RD\百布布料触觉数据化\240924\Y轴5mm_s_70mm测试"
+pyinstaller --onefile --windowed --icon=Logo.ico dataprocessing2.py

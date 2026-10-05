@@ -1,0 +1,8 @@
+* text=auto
+*.pth binary
+*.pkl binary
+*.wav binary
+*.jpg binary
+*.png binary
+*.ico binary
+*.xlsx binary

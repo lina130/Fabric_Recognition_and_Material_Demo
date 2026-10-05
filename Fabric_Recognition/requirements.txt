@@ -1,0 +1,12 @@
+librosa==0.11.0
+matplotlib==3.10.9
+numpy==2.4.6
+PyQt5==5.15.11
+pyqt5_sip==12.18.0
+pyserial==3.5
+scikit_learn==1.8.0
+scipy==1.17.1
+sounddevice==0.5.5
+torch==2.5.1+cu121
+torchaudio==2.5.1+cu121
+tqdm==4.67.3
